@@ -1,0 +1,4 @@
+aws_profile_name = ""
+polly_engine = "neural"
+polly_voice = "Takumi"
+polly_output_format = "mp3"
